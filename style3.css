@@ -1,0 +1,52 @@
+html{
+    background-color: bisque;
+    font-size: 20pt;
+}
+
+body > div, span{
+    border: 5px solid black;
+    height: 14.2vh;
+    margin-top: -5px;
+    box-sizing: border-box;
+}
+
+div > div{
+    border: 2px red dashed;
+    height: 50%;
+}
+
+body{
+    font-size: 15pt;
+}
+
+#one{
+    background-color: aqua;
+    width: 10cm;
+    font-size: 1.2rem;
+}
+
+#two{
+    background-color: darkcyan;
+    width: 19mm;
+    font-size: 1.5em;
+}
+
+#three{
+    background-color: blueviolet;
+    width: 1in;
+}
+
+#four{
+    background-color: chartreuse;
+    width: 50px;
+}
+
+#five{
+    background-color: crimson;
+    width: 85pt;
+}
+
+#six{
+    background-color: orange;
+    width: 4pc;
+}
